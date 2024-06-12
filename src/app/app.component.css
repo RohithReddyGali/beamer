@@ -1,0 +1,10 @@
+.mat-paginator-sticky {
+    bottom: 0px;
+    position: sticky;
+    z-index: 10;
+  }
+  ::ng-deep .mat-table tbody{
+     display: block;
+     height: 12em;
+     overflow: auto;
+  }
